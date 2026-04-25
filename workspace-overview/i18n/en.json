@@ -1,0 +1,28 @@
+{
+  "panel": {
+    "title": "Workspace Overview"
+  },
+  "menu": {
+    "settings": "Widget settings"
+  },
+  "settings": {
+    "zoom": "Zoom",
+    "zoom-desc": "Master scale for cards and previews",
+    "crop-top": "Crop top",
+    "crop-top-desc": "Hide pixels from the top of each workspace preview",
+    "crop-bottom": "Crop bottom",
+    "crop-bottom-desc": "Hide pixels from the bottom of each workspace preview",
+    "crop-left": "Crop left",
+    "crop-left-desc": "Hide pixels from the left of each workspace preview",
+    "crop-right": "Crop right",
+    "crop-right-desc": "Hide pixels from the right of each workspace preview",
+    "max-titles": "Window title rows",
+    "max-titles-desc": "How many window titles to list under each workspace (0 hides the list)",
+    "rounded-corners": "Rounded corners",
+    "rounded-corners-desc": "Round the mini-monitor preview corners. Disable for sharper edges and better performance with many workspaces.",
+    "show-workspace-name": "Show workspace name",
+    "show-workspace-name-desc": "Display the workspace name above each preview. When hidden, the top gap matches the side gaps.",
+    "card-inner-gap": "Card inner gap",
+    "card-inner-gap-desc": "Padding (in pixels) between the workspace preview and the card edges."
+  }
+}

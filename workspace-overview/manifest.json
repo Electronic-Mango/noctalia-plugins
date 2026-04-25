@@ -16,12 +16,23 @@
   "entryPoints": {
     "panel": "Panel.qml",
     "barWidget": "BarWidget.qml",
-    "main": "Main.qml"
+    "main": "Main.qml",
+    "settings": "Settings.qml"
   },
   "dependencies": {
     "plugins": []
   },
   "metadata": {
-    "defaultSettings": {}
+    "defaultSettings": {
+      "zoom": 1.0,
+      "cropTop": 0,
+      "cropBottom": 0,
+      "cropLeft": 0,
+      "cropRight": 0,
+      "maxTitles": 3,
+      "roundedCorners": true,
+      "showWorkspaceName": true,
+      "cardInnerGap": 8
+    }
   }
 }
