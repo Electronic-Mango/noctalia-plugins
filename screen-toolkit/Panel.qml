@@ -249,7 +249,7 @@ Item {
                 id: toolBar
                 width:  parent.width
                 height: toolsCol.implicitHeight + Style.marginM * 2
-                color:  Color.mSurfaceVariant
+                color:  Color.smartAlpha(Color.mSurfaceVariant)
                 radius: Style.radiusL
                 focus:  true
                 Component.onCompleted: forceActiveFocus()
@@ -299,7 +299,7 @@ Item {
             }
             Rectangle {
                 width:  parent.width; height: 56
-                color:  Color.mSurfaceVariant; radius: Style.radiusL
+                color:  Color.smartAlpha(Color.mSurfaceVariant); radius: Style.radiusL
                 visible: root.isRunning
                 Row {
                     anchors.centerIn: parent; spacing: Style.marginM
