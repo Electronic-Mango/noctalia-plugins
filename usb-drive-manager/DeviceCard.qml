@@ -37,7 +37,7 @@ Rectangle {
     }
 
     // ===== APPEARANCE =====
-    color: Color.mSurface
+    color: Color.smartAlpha(Color.mSurface)
     radius: Style.radiusM
     implicitHeight: cardLayout.implicitHeight + Style.marginM * 2
 

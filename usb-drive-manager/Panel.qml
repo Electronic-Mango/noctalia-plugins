@@ -45,7 +45,7 @@ Item {
             Rectangle {
                 Layout.fillWidth: true
                 Layout.fillHeight: true
-                color: Color.mSurfaceVariant
+                color: Color.smartAlpha(Color.mSurfaceVariant)
                 radius: Style.radiusL
 
                 ColumnLayout {
