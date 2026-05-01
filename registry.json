@@ -1447,7 +1447,7 @@
     {
       "id": "screen-toolkit",
       "name": "Screen Toolkit",
-      "version": "1.1.4",
+      "version": "1.2.0",
       "official": false,
       "author": "ycf-anon",
       "description": "A set of screen tools: color picker, annotate, record, pin, OCR, QR scanner, palette, measure, and webcam mirror.",
@@ -1781,7 +1781,7 @@
     {
       "id": "usb-drive-manager",
       "name": "USB Drive Manager",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "official": false,
       "author": "hennifant",
       "description": "Manage USB drives: detect, mount, unmount, safely eject, and browse files",
